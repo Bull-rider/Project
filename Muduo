@@ -1,0 +1,2 @@
+muduo是一个基于Reactor模式的现代C++网络库，它采用非阻塞IO模型，基于事件驱动和回调，原生支持多核多线程，适合编写 Linux 服务端多线程网络应用程序
+主页：https://github.com/chenshuo/muduo
